@@ -1,0 +1,49 @@
+(executable
+ (public_name day1)
+ (name day1)
+ (modules day1))
+
+(executable
+ (public_name day1_2)
+ (name day1_2)
+ (modules day1_2))
+
+(executable
+ (public_name day2)
+ (name day2)
+ (modules day2))
+
+(executable
+ (public_name day2_2)
+ (name day2_2)
+ (modules day2_2))
+
+(executable
+ (public_name day3)
+ (name day3)
+ (modules day3))
+
+(executable
+ (public_name day3_2)
+ (name day3_2)
+ (modules day3_2))
+
+(executable
+ (public_name day4)
+ (name day4)
+ (modules day4))
+
+(executable
+ (public_name day4_2)
+ (name day4_2)
+ (modules day4_2))
+
+(executable
+ (public_name day5)
+ (name day5)
+ (modules day5))
+
+(executable
+ (public_name day5_2)
+ (name day5_2)
+ (modules day5_2))
